@@ -8,20 +8,9 @@ An interactive room slideshow based on Bilal Mechairia's Dribbble shot ["Spaces 
 
 ## License
 
-Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
-
 Read more here: [License](http://tympanus.net/codrops/licensing/)
 
-## Credits
-Icons from [Brankic 1979 (subset)](http://brankic1979.com/icons/) and [Typicons (subset)](http://typicons.com/).
 
-## Misc
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
-
-[© Codrops 2015](http://www.codrops.com)
-
-
-
-
+![untitled](https://cloud.githubusercontent.com/assets/23016977/21487951/19cc5842-cbd0-11e6-9ddc-e2e2ed8e88e7.png)
+![untitled2](https://cloud.githubusercontent.com/assets/23016977/21487952/19efc41c-cbd0-11e6-87d9-8e9250c8dd41.jpg)
 
